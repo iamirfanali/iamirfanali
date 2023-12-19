@@ -1,6 +1,6 @@
 # Hello, I'm Irfan Ali! 👋
 
-![profile-image](https://github.com/iamirfanali/iamirfanali/assets/29498615/8ec094cc-4843-4d0f-9e09-8d8a1fead996)
+<img src="https://github.com/iamirfanali/iamirfanali/assets/29498615/8ec094cc-4843-4d0f-9e09-8d8a1fead996" width=400 />
 
 ## Full Stack Developer with Over 5 Years of Experience
 
