@@ -29,8 +29,8 @@ I am a passionate Full Stack Developer with a knack for crafting and deploying i
 - Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
 ### 📫 Get In Touch
-- LinkedIn: [LinkedIn](linkedin.com/in/iam-irfan-ali/)
-- Email: [Email](irfanaliamanat@gmail.com)
+- LinkedIn: <a href="https://linkedin.com/in/iam-irfan-ali/">LinkedIn</a>
+- Email: <a href="mailto:irfanaliamanat@gmail.com">Email</a>
 
 ---
 Feel free to browse through my repositories and reach out if you're interested in collaborating on a project or if you just want to chat about technology and innovation!
