@@ -1,8 +1,6 @@
 # Hello, I'm Irfan Ali! 👋
 
-<img src="https://github.com/iamirfanali/iamirfanali/assets/29498615/8ec094cc-4843-4d0f-9e09-8d8a1fead996" width=400 />
-
-## Full Stack Developer with Over 5 Years of Experience
+## Full Stack Developer with Over 6+ Years of Experience
 
 I am a passionate Full Stack Developer with a knack for crafting and deploying innovative software solutions. With over five years in the industry, I have honed my skills to turn complex project requirements into working solutions.
 
