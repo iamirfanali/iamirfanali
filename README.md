@@ -1,14 +1,14 @@
 # Hello, I'm Irfan Ali! 👋
 
-## Full Stack Developer with Over 6+ Years of Experience
+## Full Stack Developer with Over 7+ Years of Experience
 
 I am a passionate Full Stack Developer with a knack for crafting and deploying innovative software solutions. With over five years in the industry, I have honed my skills to turn complex project requirements into working solutions.
 
 ### 💻 Technical Skills
-- **Languages:** Typescript, Javascript (ES6+)
+- **Languages:** Typescript, Javascript (ES6+), Python
 - **Frontend:** React.js, Next.js (SSR), Gatsby (with Headless CMS), Vue.js, Storybook
-- **Backend:** Node.js, Nest.js
-- **Databases:** MongoDB, Postgres, MySQL
+- **Backend:** Node.js, Nest.js, Flask, Fast Api
+- **Databases:** MongoDB, Postgres, MySQL, Supabase
 - **APIs & Query Languages:** REST, GraphQL (Apollo server, Apollo client)
 - **State Management:** Redux, Xstate, Context API
 - **Real-Time Communication:** Websockets, PubNub
