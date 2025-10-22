@@ -1,8 +1,8 @@
 # Hello, I'm Irfan Ali! 👋
 
-## Full Stack Developer with Over 7+ Years of Experience
+## Full Stack Developer with Over 8+ Years of Experience
 
-I am a passionate Full Stack Developer with a knack for crafting and deploying innovative software solutions. With over five years in the industry, I have honed my skills to turn complex project requirements into working solutions.
+I am a passionate Full Stack Developer with a knack for crafting and deploying innovative software solutions. With over eight years in the industry, I have honed my skills to turn complex project requirements into elegant, efficient, and user-friendly applications.
 
 ### 💻 Technical Skills
 - **Languages:** Typescript, Javascript (ES6+), Python
