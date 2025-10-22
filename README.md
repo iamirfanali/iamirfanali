@@ -13,7 +13,7 @@ Typescript, Javascript (ES6+), Python
 React.js, Next.js (SSR), Gatsby (with Headless CMS), Vue.js, Storybook
 
 **Backend:**  
-Node.js, Nest.js, Flask, Fast Api
+Node.js, Nest.js, Flask, FastAPI
 
 **Databases:**  
 MongoDB, Postgres, MySQL, Supabase
@@ -34,7 +34,7 @@ Antd, Material UI, Bootstrap, Semantic UI etc.
 Tailwind CSS, Styled Components, Atomic Design
 
 **ORMs:**  
-TypeORM, Mongoose, Sequelize
+TypeORM, Mongoose, Sequelize< Prisma
 
 **Build Tools & Compilers:**  
 Webpack, Babel, SWC
@@ -46,7 +46,7 @@ New Relic, AWS Elastic Search, Sentry
 Unit Testing (React Testing Library, Jest), E2E Testing (Playwright)
 
 **Monorepo Management:**  
-Nx
+Nx, Turbo
 
 **CI/CD:**  
 GitHub Actions, Jenkins
